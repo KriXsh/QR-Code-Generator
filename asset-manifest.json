@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/KriXsh/QR-Code-Generator.git/static/css/main.710c943d.css",
+    "main.js": "/KriXsh/QR-Code-Generator.git/static/js/main.7f2664e3.js",
+    "index.html": "/KriXsh/QR-Code-Generator.git/index.html",
+    "main.710c943d.css.map": "/KriXsh/QR-Code-Generator.git/static/css/main.710c943d.css.map",
+    "main.7f2664e3.js.map": "/KriXsh/QR-Code-Generator.git/static/js/main.7f2664e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.710c943d.css",
+    "static/js/main.7f2664e3.js"
+  ]
+}
